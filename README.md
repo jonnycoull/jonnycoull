@@ -9,7 +9,7 @@ I am the Creative Director at [Kosli](https://www.kosli.com/)!
 
 -   💬  I like to talk about graphic design, technology, games and film. 
 
--   🙌  Check out Merkelys [brand](https://www.kosli.com/)!
+-   🙌  Check out Kosli's [brand](https://www.kosli.com/)!
 
 -   💻  Connect with me on [LinkedIn](https://www.linkedin.com/in/jonathancoull/)
 
