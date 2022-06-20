@@ -1,7 +1,7 @@
 ### <h1> 👋 Hello! I'm Jonathan Coull (JC). 
 
 
-I am the Creative Director at [Merkely](https://www.kosli.com/)!
+I am the Creative Director at [Kosli](https://www.kosli.com/)!
 <p>&nbsp;</p>
 
 
@@ -24,7 +24,7 @@ I am the Creative Director at [Merkely](https://www.kosli.com/)!
 ### <h1> ✍️ All the latest articles, tweets and activity @ Kosli. 
 
 
-🐦 [Twitter](https://twitter.com/merkely_) 💻 [LinkedIn](https://www.linkedin.com/company/kosli-dev) 🖥️ [Merkely.com](https://www.kosli.com/blog/)
+🐦 [Twitter](https://twitter.com/_kosli) 💻 [LinkedIn](https://www.linkedin.com/company/kosli-dev) 🖥️ [kosli.com](https://www.kosli.com/blog/)
 <p>&nbsp;</p>
 
 -   [How are Docker digests calculated and are they mutable?](https://www.kosli.com/blog/how-are-docker-digests-calculated-and-are-they-mutable/)   
